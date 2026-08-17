@@ -1,5 +1,6 @@
-.conig/fish/*
-!.config/fish/config.fish
+*
+!.gitignore
+!config.fish
 
 # # then for next are ignore
 # 1) .config/fish/fish_history
