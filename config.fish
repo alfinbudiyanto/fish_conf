@@ -174,6 +174,8 @@ if status is-interactive
     alias gps="git push"
     alias gtg="git tag"
     alias gtgd="git tag -a"
+    alias gd="git diff"
+    alias gf="git fetch"
 
     # Function to add & show description for current/another
     function git --description 'Wrapper for git to add a desc command'
@@ -260,6 +262,10 @@ if status is-interactive
     # ### SYSTEM, ENVIRONMENT & APPLICATION SHORTCUTS                       ###
     # #########################################################################
     alias rm="rm -i"
+    
+    alias ll="ls -l"
+    alias la="ls -a"
+    alias lla="ls -la"    
     
     # --- Update ---
     alias sdf="sudo dnf"
