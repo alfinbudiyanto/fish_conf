@@ -261,6 +261,8 @@ if status is-interactive
     # #########################################################################
     # ### SYSTEM, ENVIRONMENT & APPLICATION SHORTCUTS                       ###
     # #########################################################################
+    alias dfwm="driftwm"
+
     alias rm="rm -i"
     
     alias ll="ls -l"
