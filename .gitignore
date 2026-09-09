@@ -1,7 +1,1 @@
-*
-!.gitignore
-!config.fish
-
-# # then for next are ignore
-# 1) .config/fish/fish_history
-# 2) fish_variables
+fish_variables
