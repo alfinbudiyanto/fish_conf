@@ -279,6 +279,7 @@ if status is-interactive
     alias defaultcursor="echo /usr/share/icons/default/"
     alias cursorupdate="sudo dconf update"
     alias networkmanager="echo /etc/NetworkManager/"
+    alias code="flatpak run com.visualstudio.code"
 
     # #########################################################################
     # ### DOCKER & DOCKER COMPOSE                                           ###
